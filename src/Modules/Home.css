@@ -1,0 +1,82 @@
+#enter_city {
+  justify-content: center;
+  text-align: center;
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 3px;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  padding: 10px;
+  background-size: cover;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-weight: 1;
+  padding-top: 60px;
+}
+.home {
+  background: linear-gradient(-45deg, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  background-size: cover;
+  padding: top 0px;
+}
+
+button {
+  border: 3px solid white;
+  color: white;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 10px;
+  width: 90px;
+  transition-duration: 0.5s;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+#p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn {
+  padding-bottom: 240px;
+}
+#error {
+  color: red;
+  font-size: 19px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 0px;
+}
+#back {
+  justify-content: left;
+  text-align: left;
+  padding-left: auto;
+  padding-top: auto;
+}
+#temp {
+  padding-top: 60px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+}
+
+#location {
+  text-align: center;
+  justify-content: center;
+  padding-top: 0px;
+}
+#bar {
+  text-align: left;
+  padding: 30px;
+}
+#max-min {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 400px;
+}
+h2 {
+  text-align: center;
+  color: white;
+}

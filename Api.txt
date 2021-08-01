@@ -1,0 +1,7 @@
+method: 'GET',
+  url: 'https://weatherbit-v1-mashape.p.rapidapi.com/forecast/daily',
+  params: {lat: '38.5', lon: '-78.5'},
+  headers: {
+    'x-rapidapi-key': '19898fbbe3msh2c824e7a4ddbc99p180c91jsn1aea6f9db8fc',
+    'x-rapidapi-host': 'weatherbit-v1-mashape.p.rapidapi.com'
+  }
