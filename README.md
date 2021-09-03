@@ -1,5 +1,5 @@
 ### Weather App
-This is the weather app you can search the weather infomation from lots of citys and towns
+This is the weather app you can search the weather infomation from all the citys and towns around the world
 
 ### Credits:
 
