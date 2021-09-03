@@ -9,3 +9,8 @@ API:Open weather map
 
 Special thanks to Open weather map for making this app possible!
 
+### Hosting
+
+App hosted on firebase made by google
+
+App link: https://weather-app-24b70.web.app/
